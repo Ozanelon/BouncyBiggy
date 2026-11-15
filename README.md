@@ -9,6 +9,10 @@ Take control of Biggy in this fast-paced, physics-based game. Your goal is simpl
 - **Ball Assets:** [Game Developer Studio - Balls](https://gamedeveloperstudio.itch.io/balls)
 - **UI (Assets:** [Kenney - 1-bit Platformer Pack](https://kenney-assets.itch.io/1-bit-platformer-pack)
 
+## Link to the Game:
+[itch.io](https://ozanelon.itch.io/bouncybiggy)
+
+
 ## Screenshots
 
 ### Playing Footages
@@ -24,6 +28,4 @@ Take control of Biggy in this fast-paced, physics-based game. Your goal is simpl
 
 ![Playing Footages](screenshots/SCR-20261115-bbic.png)
 
-## Link to the Game:
-[itch.io](https://ozanelon.itch.io/bouncybiggy)
 
