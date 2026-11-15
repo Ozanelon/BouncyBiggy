@@ -1,0 +1,70 @@
+[gd_scene format=3 uid="uid://cfntm6ckjmaxd"]
+
+[ext_resource type="Script" uid="uid://decdbkqhgm2iv" path="res://pause_menu.gd" id="1_hdmo1"]
+
+[node name="CanvasLayer2" type="CanvasLayer" unique_id=653389281]
+
+[node name="PauseMenu" type="Control" parent="." unique_id=1451377672]
+process_mode = 3
+layout_mode = 3
+anchors_preset = 0
+offset_right = 1150.0
+offset_bottom = 647.0
+script = ExtResource("1_hdmo1")
+
+[node name="Panel" type="Panel" parent="PauseMenu" unique_id=1265454096]
+layout_mode = 0
+offset_right = 1149.0
+offset_bottom = 646.0
+
+[node name="VBoxContainer" type="VBoxContainer" parent="PauseMenu" unique_id=1018096783]
+layout_mode = 1
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = -149.75
+offset_top = -46.5
+offset_right = 149.75
+offset_bottom = 46.5
+grow_horizontal = 2
+grow_vertical = 2
+
+[node name="Label" type="Label" parent="PauseMenu/VBoxContainer" unique_id=789424303]
+layout_mode = 2
+text = "Oyun Durdu"
+horizontal_alignment = 1
+vertical_alignment = 1
+
+[node name="Devam Et" type="Button" parent="PauseMenu/VBoxContainer" unique_id=1146948991]
+layout_mode = 2
+text = "Devam Et"
+
+[node name="Çıkış" type="Button" parent="PauseMenu/VBoxContainer" unique_id=73479044]
+layout_mode = 2
+text = "Çıkış
+"
+
+[node name="Skor Tablosu" type="Button" parent="PauseMenu/VBoxContainer" unique_id=927142571]
+layout_mode = 2
+text = "Skor Tablosuna Git"
+
+[node name="isim" type="AcceptDialog" parent="PauseMenu" unique_id=2074410384]
+title = "İsim Girin:"
+size = Vector2i(200, 100)
+
+[node name="LineEdit" type="LineEdit" parent="PauseMenu/isim" unique_id=160234023]
+offset_right = 68.5
+offset_bottom = 31.0
+alignment = 1
+
+[node name="SkorPenceresi" type="AcceptDialog" parent="PauseMenu" unique_id=700685484]
+
+[node name="RichTextLabel" type="RichTextLabel" parent="PauseMenu/SkorPenceresi" unique_id=1022103211]
+offset_right = 40.0
+offset_bottom = 40.0
+
+[connection signal="pressed" from="PauseMenu/VBoxContainer/Devam Et" to="PauseMenu" method="_on_devam_et_pressed"]
+[connection signal="pressed" from="PauseMenu/VBoxContainer/Çıkış" to="PauseMenu" method="_on_çıkış_pressed"]
+[connection signal="pressed" from="PauseMenu/VBoxContainer/Skor Tablosu" to="PauseMenu" method="_on_skor_tablosu_pressed"]
