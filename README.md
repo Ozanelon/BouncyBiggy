@@ -8,3 +8,22 @@ Take control of Biggy in this fast-paced, physics-based game. Your goal is simpl
 - **Sound Effectsi:** [sfxr.me](https://sfxr.me)
 - **Ball Assets:** [Game Developer Studio - Balls](https://gamedeveloperstudio.itch.io/balls)
 - **UI (Assets:** [Kenney - 1-bit Platformer Pack](https://kenney-assets.itch.io/1-bit-platformer-pack)
+
+## Screenshots
+
+### Playing Footages
+![Playing Footages](screenshots/SCR-20261115-bacd.png)
+
+![Playing Footages](screenshots/SCR-20261115-badi.png)
+
+![Playing Footages](screenshots/SCR-20261115-bavt.png)
+
+![Playing Footages](screenshots/SCR-20261115-bbdw.png)
+
+![Playing Footages](screenshots/SCR-20261115-bbfk.png)
+
+![Playing Footages](screenshots/SCR-20261115-bbic.png)
+
+## Link to the Game:
+[itch.io](https://ozanelon.itch.io/bouncybiggy)
+
