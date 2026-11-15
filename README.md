@@ -16,6 +16,9 @@ Take control of Biggy in this fast-paced, physics-based game. Your goal is simpl
 ## Screenshots
 
 ### Playing Footages
+
+![Playing Footages](screenshots/SCR-20261115-nbec.png)
+
 ![Playing Footages](screenshots/SCR-20261115-bacd.png)
 
 ![Playing Footages](screenshots/SCR-20261115-badi.png)
