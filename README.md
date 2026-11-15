@@ -4,7 +4,7 @@ Take control of Biggy in this fast-paced, physics-based game. Your goal is simpl
 
 ### 🛠️ Resources and Tools We’ve Used:
 - **Coding the Physical System and Scoreboard System:** Claude Sonnet 5.5
-- **Cover and Icons:** Canva, Inkscape, [Pixelart](https://www.pixilart.com)
+- **Cover and Icons:** Canva, Inkscape, [Pixilart](https://www.pixilart.com)
 - **Sound Effectsi:** [sfxr.me](https://sfxr.me)
 - **Ball Assets:** [Game Developer Studio - Balls](https://gamedeveloperstudio.itch.io/balls)
 - **Platfrom Assets:** [Kenney - 1-bit Platformer Pack](https://kenney-assets.itch.io/1-bit-platformer-pack)
